@@ -15,6 +15,8 @@ Scaffolding is a discrete starting point for a new Paid Post.  No installer is r
 The simplest way to start a project is to clone, remove .git and git init:
 
 
+
+
     git clone https://github.com/nytpi/scaffolding.git <your projectname>
     cd <your projectname>
     rm -rf .git
