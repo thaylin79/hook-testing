@@ -16,8 +16,6 @@ The simplest way to start a project is to clone, remove .git and git init:
 
     git clone https://githubfdasfds.com/nytpi/scaffolding.git <your projectname>
     cd <your projectname>
-
-
     
     rm -rf .git
     git init
