@@ -7,6 +7,8 @@ Paid Posts are treated as articles in the NYTimes.com ecosystem.  As a result, t
 * Rendered by our internal web framework "NYT5"
 * Hosted in the NYTimes.com server ecosystem
 
+
+
 All of the decisions in
 scaffolding are designed to allow maximum flexibility for development within the above constraints.
 

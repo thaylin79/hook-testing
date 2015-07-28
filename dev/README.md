@@ -9,6 +9,8 @@ Paid Posts are treated as articles in the NYTimes.com ecosystem.  As a result, t
 
 
 
+
+
 All of the decisions in scaffolding are designed to allow maximum flexibility for development within the above constraints.
 
 ## Getting started
